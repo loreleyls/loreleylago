@@ -1,1 +1,8 @@
+title: Loreley Lago
+description: Physican Oceanography
+baseurl: "" # la URL base del sitio cuando está desplegado
+url: "https://loreleysl.github.io" # la URL del sitio
 
+theme: Slate # puedes cambiar esto según el tema que uses
+
+markdown: kramdown
